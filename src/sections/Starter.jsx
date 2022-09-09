@@ -20,7 +20,7 @@ export default function Starter() {
           className="content"
           variants={headerAnimation}
           animate={controls}
-          transition={{ delay: 0.2, type: "tween" }}
+          transition={{ delay: 0.1, type: "tween" }}
         >
           <h1>
             We Provide Solutions to Help You to Build or Grow Your Buisness!

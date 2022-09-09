@@ -10,7 +10,7 @@ function Card({ logo, title, animateCustom }) {
       initial="hidden"
       animate="show"
       animate={animateCustom}
-      transition={{ stiffness: 5000 }}
+      transition={{ stiffness: 3000 }}
     >
       <div className="logo">{logo}</div>
       <div className="card-title">

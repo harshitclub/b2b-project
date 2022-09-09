@@ -20,7 +20,7 @@ function Blogs() {
           className="title-container"
           variants={textAnimation}
           animate={controls}
-          transition={{ duration: 1 }}
+          transition={{ duration: 0.5 }}
         >
           <Title title="Blogs" color="pink" lineCenter={true} />
           <p>Insights and advice from our experts.</p>

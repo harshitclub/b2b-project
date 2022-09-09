@@ -17,7 +17,7 @@ export default function Testimonials() {
           variants={textAnimation}
           animate={controls}
           transition={{
-            duration: 1,
+            duration: 0.5,
           }}
         >
           <Title title="Testimonials" color="blue" lineCenter={true} />

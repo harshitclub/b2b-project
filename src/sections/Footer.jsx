@@ -20,7 +20,7 @@ function Footer() {
             className="news-letter"
             variants={fromUp}
             animate={controls}
-            transition={{ duration: 0.5 }}
+            transition={{ duration: 0.3 }}
           >
             <BrandName isFooter={true} />
             <p>
@@ -112,7 +112,7 @@ function Footer() {
               <div className="detail">
                 <div className="detail-name">Email</div>
                 <div className="detail-content">
-                  <a href="#">kishansheth21@gmail.com</a>
+                  <a href="#">harshitclub@gmail.com</a>
                 </div>
               </div>
             </div>
@@ -123,7 +123,7 @@ function Footer() {
               <div className="detail">
                 <div className="detail-name">Phone</div>
                 <div className="detail-content">
-                  <a href="#">+91 7551231231</a>
+                  <a href="#">+91 7505394360</a>
                 </div>
               </div>
             </div>
@@ -135,7 +135,7 @@ function Footer() {
               <div className="detail">
                 <div className="detail-name">Location</div>
                 <div className="detail-content">
-                  <a href="#"> 32 StreetOne Boards, GJ 560123</a>
+                  <a href="#"> 34 This is Demo Address</a>
                 </div>
               </div>
             </div>
@@ -143,7 +143,7 @@ function Footer() {
         </div>
         <div className="copyright">
           <div className="copy">
-            <p>Copyright c 2021. All Rights Reserved.</p>
+            <p>Copyright @ 2022. All Rights Reserved.</p>
           </div>
           <div className="icons">
             <div className="icon">

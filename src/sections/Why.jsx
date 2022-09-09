@@ -21,7 +21,7 @@ function Why() {
           variants={topContainerAnimation}
           animate={controls}
           transition={{
-            duration: 1,
+            duration: 0.5,
           }}
         >
           <Title title="Why CRYO ?" color="pink" lineCenter={true} />
